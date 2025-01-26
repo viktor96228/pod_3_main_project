@@ -1,0 +1,154 @@
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:23:10.878982
+Start name method: authorization
+
+End time: 2025-01-26 23:24:02.538926
+End name method: authorization
+URL: https://just.ru/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:24:12.539884
+Start name method: select_menu
+
+End time: 2025-01-26 23:24:12.902729
+End name method: select_menu
+URL: https://just.ru/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:24:12.902729
+Start name method: select_menu_1
+
+End time: 2025-01-26 23:24:21.277661
+End name method: select_menu_1
+URL: https://just.ru/pc/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:24:21.277661
+Start name method: select_menu_2
+
+End time: 2025-01-26 23:25:09.013002
+End name method: select_menu_2
+URL: https://just.ru/pc/notebooks/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:09.013002
+Start name method: select_menu_3
+
+End time: 2025-01-26 23:25:17.017932
+End name method: select_menu_3
+URL: https://just.ru/pc/notebooks/lenovo/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:20.019983
+Start name method: select_popylar
+
+End time: 2025-01-26 23:25:20.167587
+End name method: select_popylar
+URL: https://just.ru/pc/notebooks/lenovo/?f=13483:80027&pr=30000:477090
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:20.168574
+Start name method: select_novelty
+
+End time: 2025-01-26 23:25:20.307595
+End name method: select_novelty
+URL: https://just.ru/pc/notebooks/lenovo/?f=13483:80027&pr=30000:477090
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:20.307595
+Start name method: select_nout
+
+End time: 2025-01-26 23:25:27.559363
+End name method: select_nout
+URL: https://just.ru/goods/1362723/lenovo_ideapad_3_15iau7_82rk00tqps/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:27.559363
+Start name method: select_basket
+
+End time: 2025-01-26 23:25:27.695271
+End name method: select_basket
+URL: https://just.ru/goods/1362723/lenovo_ideapad_3_15iau7_82rk00tqps/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:25:32.700393
+Start name method: shopping_cart
+
+End time: 2025-01-26 23:26:13.374311
+End name method: shopping_cart
+URL: https://just.ru/basket/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:26:13.375315
+Start name method: lenovo_nout_cart
+
+End time: 2025-01-26 23:26:19.779596
+End name method: lenovo_nout_cart
+URL: https://just.ru/goods/1362723/lenovo_ideapad_3_15iau7_82rk00tqps/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:26:19.779596
+Start name method: alread_shopping_cart
+
+End time: 2025-01-26 23:26:19.920017
+End name method: alread_shopping_cart
+URL: https://just.ru/goods/1362723/lenovo_ideapad_3_15iau7_82rk00tqps/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:26:19.921015
+Start name method: empty_shopping_cart
+
+End time: 2025-01-26 23:26:23.073540
+End name method: empty_shopping_cart
+URL: https://just.ru/catalog/
+
+-----
+
+-----
+Test: test_product.py::test_product (call)
+Start time: 2025-01-26 23:26:23.073540
+Start name method: finish
+
+End time: 2025-01-26 23:26:23.226362
+End name method: finish
+URL: https://just.ru/catalog/
+
+-----
